@@ -6,4 +6,4 @@ The portfolio features a modern, responsive, and user-friendly design, allowing 
 
 Whether you're a recruiter, collaborator, or fellow developer, this portfolio provides an overview of my experience, capabilities, and ongoing growth in the tech industry.
 
-⭐ Thank you for visiting! Feel free to explore the repository and connect with me.
+Thank you for visiting! Feel free to explore the repository and connect with me.
